@@ -1,5 +1,4 @@
 # ' this is my pfmhubfile3'"
 
-echo " golf "
+touch golf 
 
-touch 7iron
